@@ -62,7 +62,7 @@ setting:
 8. Type http: // doika / doika / admin in browser, impose demo@example.com demo
 
 ## Project structure (in the development)
-what are the key files for (config file, installer file, where the front is, where the back is, what notes on the paths)
+The key files (config file, installer file, where the front is, where the back is, what notes on the paths).
 
 ## What do I need to install the module?
 For Republic of Belarus
